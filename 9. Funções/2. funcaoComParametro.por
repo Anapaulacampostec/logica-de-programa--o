@@ -7,7 +7,7 @@ programa {
     
   }
   funcao MensagemComNome(cadeia nome){
-    escreva("Olá,",nome," seja, bem-vindo ao Senac \n")
+    escreva("Olá, ",nome," seja, bem-vindo ao Senac \n")
 
   }
 }

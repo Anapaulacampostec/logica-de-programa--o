@@ -3,10 +3,10 @@ programa {
   
   funcao inicio() {
 
-  escreva("Digite um numero: ")
+  escreva("Digite o primeiro número: ")
     leia(numero1)
 
-    escreva("Digite um numero: ")
+    escreva("Digite o segundo número: ")
       leia(numero2)
 
         escreva("O maior número é: ",Maior(numero1,numero2))

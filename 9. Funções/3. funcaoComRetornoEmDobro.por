@@ -4,7 +4,7 @@ programa {
     escreva("Digite um número: ")
     leia(numero)
 
-    escreva("o dobro do número é: ", Dobro(numero))
+    escreva("o dobro desse número é: ", Dobro(numero))
   }
   funcao inteiro Dobro(inteiro n){
     retorne n*2
